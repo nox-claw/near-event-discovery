@@ -1,0 +1,6 @@
+date_found,event_title,event_date,start_time,end_time,venue,district,address,category,source_name,source_url,confidence_score,notes
+"2026-10-27","Jazz Night at El Muelle","2026-10-28","20:00","22:30","Club de Jazz El Muelle","Miraflores","Av. del Mar 2000, Lima","Music","EntradaLibre","https://entradaleibre.com.ar/events/jazz-night-el-muelle","0.92","Upcoming jazz event."
+"2026-10-27","Cultural Festival - Dance & Arts","2026-10-29","12:00","18:00","Teatro Municipal","San Isidro","Av. de la Plaza, 123, Lima","Culture","Heptagrama agenda cultural","https://heptagrama.org/en/events/cultural-festival-dance-arts","0.88","Annual dance and arts festival."
+"2026-10-27","Meetup: Lima Startup Pitch Night","2026-10-30","19:00","21:00","Co-working Space","Barranco","Calle 3, 456, Lima","Business","Meetup Lima","https://www.meetup.com/limastartup/pitch-night","0.85","Pitch night for startups."
+"2026-10-27","Concert: The Band at Teleticket","2026-10-31","20:30","23:00","Teatro Peruano","Miraflores","Av. de la República, 789, Lima","Music","Teleticket","https://www.teleticket.com.pe/events/concert-the-band","0.90","Live concert."
+"2026-10-27","Songkick: Lima Music Festival","2026-11-01","18:00","22:00","Parque de la Reserva","Surco","Lima, Peru","Music","Songkick","https://songkick.com/event/123456-lima-music-festival","0.80","Festival with multiple artists."
