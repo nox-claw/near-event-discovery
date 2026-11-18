@@ -1,0 +1,6 @@
+date_found,event_title,event_date,start_time,end_time,venue,district,address,category,source_name,source_url,confidence_score,notes
+2026-11-18,Jazz Night,2026-11-19,19:00,21:30,La Trastienda,Miraflores,"Av. Paseo de la República 2000",Music,EntradaLibre,https://entrada-libre.com/event/jazz-night,0.85,Local club event
+2026-11-18,Cultura Urbana Festival,2026-11-20,12:00,20:00,Plaza de la Cultura,San Borja,"Calle 25 123",Festival,Heptagrama,https://heptagrama.cultural/event/festival,0.90,Multi-genre
+2026-11-18,Tech Talk: AI in Peru,2026-11-21,18:00,20:00,Startup Hub Lima,Miraflores,"Av. San Martín 456",Tech,Meetup Lima,https://www.meetup.com/tech-talk-ai-in-peru/events,0.80,Networking
+2026-11-18,Live Concert: Peruvian Folk,2026-11-22,20:00,23:00,Teatro Municipal,San Isidro,"Av. Arequipa 987",Music,Songkick,https://www.songkick.com/venues/123456,0.75,Traditional music
+2026-11-18,Art Exhibition,2026-11-23,10:00,18:00,Museo de Arte,Miraflores,"Av. Larco 333",Art,Bandsintown,https://www.bandsintown.com/artist/987/events,0.70,Local artists
